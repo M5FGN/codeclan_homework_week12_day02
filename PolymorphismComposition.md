@@ -2,11 +2,11 @@
 
 ## Polymorphism
 
-**1 What does the word 'polymorphism' mean?**
+**1 What does the word 'polymorphism' mean?** /
 
 Poly means 'many' and 'morph' means change, therefore, polymorphism is the ability to change to take on many forms.
 
-**2 What does it mean when we apply polymorphism to OO design? Give a simple Java example.**
+**2 What does it mean when we apply polymorphism to OO design? Give a simple Java example.** /
 Polymorphism lets us set up methods in a parent class that are inherited by the child classes and can then be used to perform the same action but in different ways.
 
 Example from Theme Park Homework - Stalls and RollerCoaster inherited from ISecurity
@@ -23,13 +23,13 @@ Example from Theme Park Homework - Stalls and RollerCoaster inherited from ISecu
 ```
 
 
-**3 What can we use to implement polymorphism in Java?**
+**3 What can we use to implement polymorphism in Java?** /
 Interfaces, Inheritence and Abstract Classes are used to implement polymorphism.
 
-**4 How many 'forms' can an object take when using polymorphism?**
+**4 How many 'forms' can an object take when using polymorphism?** /
 There are no limits to the number of forms an object can take using polymorphism.
 
-**5 Give an example of when you could use polymorphism.**
+**5 Give an example of when you could use polymorphism.** /
 As above Theme Park example - when some of the attractions and stalls have conditions of use such as height or age that need to be met to allow a user to proceed. <Needs Updating>
 
 
