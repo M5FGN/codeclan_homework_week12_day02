@@ -61,7 +61,9 @@ class Car {
 ```
 <Needs a different example>
 <br></br>
+
 **3 Give a difference between composition and aggregation?**
+
 <br></br>
 Composition is where something is built of smaller parts that go together to make the whole object - such a house being _**composed**_ of walls, roof, windows etc in other words they are _**a part of**_ the house. If any one part is missing then the other parts can't exist.
 
