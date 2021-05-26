@@ -40,10 +40,11 @@ As above Theme Park example - when some of the attractions and stalls have condi
 ## Composition and Aggregation
 
 **1 What do we mean by 'composition' in reference to object-oriented programming?**
+<br></br>
 Composition is where an object is made up of smaller parts.
-
+<br></br>
 **2 When would you use composition? Provide a simple example in Java.**
-
+<br></br>
 ```
 class Car {
     private String make;
@@ -59,17 +60,21 @@ class Car {
     }
 ```
 <Needs a different example>
-
+<br></br>
 **3 Give a difference between composition and aggregation?**
+<br></br>
 Composition is where something is built of smaller parts that go together to make the whole object - such a house being _**composed**_ of walls, roof, windows etc in other words they are _**a part of**_ the house. If any one part is missing then the other parts can't exist.
 
 Aggregation is where something can be built of smaller parts that go together to make the whole object - such as an engine, tyres and battery. They are _**aggregated**_ together to make the car in other words the car _**has**_ an engine, tyres and a battery. The car can still exist if any part is not added ie an clutch pedal is not added to an automatic car.
-
+<br></br>
 **4 What is/are the advantage(s) of using composition/aggregation?**
+<br></br>
 Code is cleaner and reusable.
-
+<br></br>
 **5 When using composition, when an object is destroyed, what happens to all the objects it is composed of?**
+<br></br>
 They can't exist on their own.
-
+<br></br>
 **6 When using aggregation, when an object is destroyed, what happens to all the objects it is composed of?**
+<br></br>
 They can continue to exist.
